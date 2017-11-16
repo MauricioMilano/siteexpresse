@@ -1,1 +1,0 @@
-<?php require("../accessCheck.php"); ?>
