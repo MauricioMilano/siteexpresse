@@ -1,0 +1,8 @@
+Colors:
+
+#008973 Verde escuro
+#00A69A Verde meio
+#CBE6DA Verde claro
+#FBB91A Amarelo escuro
+#FFD267 Amarelo claro
+#3B3838 Cinza

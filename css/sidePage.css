@@ -1,0 +1,58 @@
+#image-brand-normal {
+	width: 150px;
+	height: inherit;
+}
+
+#informacoes {
+    background-color: #E3A542;
+}
+
+footer {
+	bottom: 0;
+	background-color: grey;
+	width: 100%;
+	position: static;
+    min-height: 10vh;
+}
+
+.padder {
+    padding-top: 20px;
+    align-content: center;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon {
+    height:50px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.navbar-default {
+    border-bottom: 2px solid rgba(55, 185, 209, 0.9);
+}
+
+.contrato {
+    background-color: white;
+}
+
+h1 {
+    color: #27B4CE;
+    border-bottom: 2px solid #F19F1E;
+}
+
+.titulozao {
+    padding-top: 10vh;
+    padding-bottom: 1vh;
+}
+
+h2 {
+    border-bottom: none;
+    color: #27B4CE;
+    
+}
+
+.batatinha {
+    padding-bottom: 5vh;
+}

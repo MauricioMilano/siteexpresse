@@ -1,0 +1,114 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Professional LinkedIn Widget"
+msgstr ""
+
+#. Short description.
+msgid "LinkedIn is a social media network that is in a league of its own. Unlike Facebook and Twitter, LinkedIn is completely focused on professional engagem"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Screenshot 1</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Screenshot 2</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Screenshot 3</p>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "As a result, all professional websites could benefit from having the Professional LinkedIn Widget installed. This is because Professional LinkedIn Widget allows website visitors to view your LinkedIn profile, and LinkedIn Pages directly from your website, so that both you and website visitors can expand their LinkedIn connections. Add LinkedIn functionality directly onto your website, by downloading Professional LinkedIn Widget today. Once downloaded and installed onto your website, website visitors can check out your LinkedIn profile, without ever having to leave your site. Make the right decision and download Professional LinkedIn Widget for your website today."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The Many Benefits of Professional LinkedIn Widget"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The following LinkedIn features are displayed via the Professional LinkedIn Widget:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "•   Member Profile"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "•   Follow Company"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "•   Company Profile"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "•   Company Insider"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "•   Jobs You Might Be Interested In"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "By downloading Professional LinkedIn Widget, these LinkedIn features can be displayed directly onto your website, so that website visitors do not have leave your site to view your LinkedIn profile, and other LinkedIn features."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Professional LinkedIn Widget can be downloaded and installed for free, for all Wordpress websites. This exceptional professional engagement tool allows webpage visitors to track your LinkedIn posts and updates, view potential jobs based on a specific industry, while also gaining access to job search resources and tips. Some of the many benefits that come with downloading and installing Professional LinkedIn Widget for your website include:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install the wordpress plugin first"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Activate the plugin</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>You will see \"Professional LinkedIn Widget\" settings from right side of your wordpress menu.</p>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This section describes how to install the plugin and get it working."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can install it via Wordpress Installer or can download the file first then Upload it on /wp-content/plugins/ directory"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Activate the plugin"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You will see \"Professional LinkedIn Widget\" settings from right side of your wordpress menu."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Configuration Options:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "LinkedIn Public Profile ID :Default is \"linkedin\" - You can change it with your profile id"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Margin Top :Their you have to Put Numeric Number as per your need. Margin Top create a padding from Top position of your website screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Stable Version Released"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I contact for support?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "bruterdregz@gmail.com"
+msgstr ""

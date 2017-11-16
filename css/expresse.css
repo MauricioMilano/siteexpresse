@@ -1,0 +1,403 @@
+.navbar-default .nav > li > a, .navbar-nav > li >a {
+  position: relative;
+  display: block;
+  padding: 10px 8px;
+}
+
+.expresse-table {
+  display: table;
+  height: 100%;
+}
+.t-info{padding-left: 1%; margin-bottom: 10px !important;font-size: 15px;font-family: "Century-Gothic";}
+.qs-img{padding-bottom:30px;}
+.p-img{margin-bottom: 20px !important;}
+.pi-img{height: 30vh;width: 30vh;padding-top: 55px;}
+.s-img img{min-height: 100%;min-width: 100%}
+
+﻿@media (max-height: 319px) {
+
+  .navbar-default .nav > li > a, .navbar-nav > li >a {
+    padding: 10px 10px 10px 10px;
+  }
+
+  #expresse-menu {
+    padding: 3px 0px 0px 0px;
+  }
+
+  #myCarousel {
+    margin-top:50px;
+  }
+
+}
+
+.thumbnail {
+  margin-bottom: 8px;
+}
+
+@media (min-height: 320px) {
+  .navbar-default .nav > li > a, .navbar-nav > li >a {
+    position: relative;
+    display: block;
+    padding: 10px 8px;
+  }
+
+  #expresse-menu {
+    padding: 10px 0px 10px 0px;
+  }
+
+  #myCarousel {
+    margin-top:80px;
+  }
+}
+
+@font-face {
+  font-family: "Tahoma-face";
+  src: url("../fonts/Tahoma.ttf");
+}
+
+body {
+  font-family: Tahoma,Tahoma-face, Verdana, Segoe, sans-serif;
+  font-size: 16px;
+}
+
+.form-control {
+    font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  .container{
+    width: 760px;
+  }
+}
+
+.expresse-gallery-img {
+  max-width: 100%;
+}
+
+.expresse-gallery-img:hover {
+  background-color: #FBB91A;
+}
+
+.expresse-preview-img {
+  max-width:100%;
+}
+
+.expresse-bgcolor-green {
+  background-color: #3cbeb4;
+}
+
+.expresse-clientes-parceiros-col-padding div  {
+  padding-right : 5px;
+  padding-left : 5px;
+  text-align: center;
+}
+
+/*usados no painel de controle de clientes e parceiros*/
+#novo-cliente-img, #novo-parceiro-img  {
+  display: none;
+}
+
+.expresse-cell-xs-row {
+  display: table-row;
+  vertical-align: middle;
+  height:100%;
+  float: none;
+}
+
+@media (min-width: 768px){
+  .container>.navbar-header{
+    display: inline-block;
+    float: none;
+  }
+
+  /*
+    .navbar>.container .navbar-brand{
+      margin: 0;
+    }
+  */
+
+  .container>.navbar-header {
+    margin-left: 0px; /*faz com que não cole o logo na lateral esquerda quando o menu colapsa*/
+  }
+
+  .navbar-collapse.collapse{
+    display: inline-block!important;
+  }
+
+  .expresse-cell-xs-row {
+    display: table-cell;
+  }
+}
+
+h1 {
+  color: #27B4CE;
+  font-weight: bold;
+}
+
+h2 {
+  color: #27B4CE;
+  border-bottom: 3px solid #F19F1E;
+  padding-bottom: 5px;
+  font-weight: bold;
+  display: table;
+  font-size: 26px;
+  width: 100%;
+}
+
+h3 {
+  color: #27B4CE;
+  border-bottom: 2px solid #27B4CE;
+  padding-bottom: 5px;
+  display: table;
+  font-size: 26px;
+}
+
+.h3 {
+  color: #27B4CE;
+  font-size: 24px;
+}
+
+footer {
+  background-color:  #3B3838;
+  color: white;
+  padding-bottom: 10px;
+}
+
+#fundo{
+  background-color:  white;
+  border-bottom: 1px #CBE6DA solid;
+}
+
+#combo{
+  width:100%;
+}
+
+#map-canvas{
+  width:100%;
+  height:500px;
+}
+
+#informacoes {
+  background-color: #00A69A;
+  display: table-cell;
+  vertical-align: middle;
+  color: white;
+  height:150px;
+}
+
+#yellow-margin{
+  width:100%;
+  background-color:#FBB91A;
+  height:2px;margin-top:15px;
+  margin-bottom: 5px;
+}
+
+#footer-down-meio{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#quote {
+  padding: 30px;
+  font-size: 23px;
+}
+
+#separator-block{
+  width: 20px;
+  display: inline-block;
+}
+
+#image-in{
+  max-width: 75px;
+}
+
+#image-brand-white{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  max-width: 150px;
+}
+
+#font-size-13{
+  font-size: 13px;
+}
+
+#font-size-9{
+  font-size: 9px;
+}
+
+/*.container-fluid * {
+  padding: 0px;
+}
+
+.vertical-center {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+*/
+
+.botao-menu{
+  padding-left: 0px;
+  padding-top: 32px;
+  font-size: 17px;
+}
+
+.bigger-text p {
+  font-size: 16px;
+}
+
+.container > p {
+  text-align: justify;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+}
+
+.parent-valign-middle:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.inner-valign-middle {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.net-image{
+  height: 50px;
+  width: 50px;
+}
+
+.blue-text{
+  color: #00A69A;
+}
+
+.navbar-default{
+  background: rgb(255, 255, 255); /* Fall-back for browsers that don't support rgba */
+  background: rgba(255, 255, 255, .95);
+  border: 0;
+  border-bottom: 2px solid rgba(203, 230, 218, .90);
+  margin-bottom: 0;
+}
+
+.navbar-brand{
+  height: initial;
+  padding: 0;
+  padding-left: 15px;
+}
+
+.container-padding {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.page-header {
+  margin: 60px 0px 20px 0px;
+  border-bottom: 0px;
+}
+
+/* Empresa */
+
+.bullet-ul {
+  list-style-image: url('../img/bullet.png');
+  padding-left: 20px;
+}
+
+.bullet-ul li {
+  padding-left: 15px;
+  margin-bottom: 1.5em;
+}
+
+.input-group li {
+  margin-bottom: 0em;
+}
+
+/* Fim Empresa */
+
+.img-responsive {
+  display: inline-block;
+}
+
+/* Serviços */
+
+#servicos-quote{
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#servicos-quote-img{
+  min-width: 100px;
+}
+
+.lead {
+  color: #3cbeb4;
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.pre-line {
+  white-space: pre-line;
+}
+
+.btn-expresse-blue {
+  color: #fff;
+  background-color: #00A69A;
+  border-color: #008973;
+  font-size: 18px;
+}
+
+.btn-expresse-blue:hover {
+  color: #fff;
+  background-color: #008973;
+}
+
+.col1-4{
+	background-color:#008973;
+}
+
+.col2-3{
+	background-color:#00A69A;
+}
+
+.img-ico{
+	padding: 10px 0 10px 0;
+}
+
+.col-ico{
+	height: 395px;
+	display:block;
+}
+
+.col-ico p{
+	font-size: 1.25em;
+	color: #fff;
+	margin: 15% 0%;
+}
+
+@media (max-width: 531px) {
+  .col-ico p{
+	font-size: 0.965em;
+	font-weight: bold;
+	}
+}
+
+.div-logo{
+	height: 790px; /* 2x altura do painel, aka col-ico*/
+	background-image:url('../img/logo-main.png');
+	background-repeat: no-repeat;
+	background-position:center;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    -o-background-size: 100%;
+}
+
+@media (max-width: 767px){
+	.div-logo{
+		height: 380px;
+	}
+}

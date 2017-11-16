@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "Gothic"; /*a name to be used later*/
+    src: url(../fontes/got.ttf) format('truetype'); /*URL to font*/
+}
+@font-face {
+    font-family: "Century-Gothic"; /*a name to be used later*/
+    src: url(../fontes/cgot.ttf) format('truetype'); /*URL to font*/
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	background-color: grey;
+	width: 100%;
+	position: static;
+    	height: 10vh;
+}
+
+.navbar-default {
+    border-bottom: 2px solid rgba(55, 185, 209, 0.9);
+}
+
+#slogam{
+    padding-top: 20px;
+	width: 100%;
+	min-height: 75px;
+	background-color: white;
+	display: table;
+	font-family: "Gothic";
+	letter-spacing: 2px;
+    color: grey;
+	}
+
+#text-slogam{
+	font-family: "Gothic";
+	font-size: x-large;
+	top:50%;
+	bottom:50%;
+}
+
+#image-brand-normal{
+	width: 150px;
+	height: inherit;
+}
+
+.graphs{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#fotoerj{
+	background: transparent no-repeat scroll center bottom / cover;
+	height: 90vh;
+}
+
+.icon{
+    height:50px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.text-box{
+	padding-top: 15%;
+	margin-bottom: 0;
+	color:white;
+	text-align: center;
+	font-size: 20px;
+	word-wrap: break-word;
+}
+
+.padder {
+    padding-top: 20px;
+    align-content: center;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quadrados {
+    height: 200px;
+    display: table;
+}
+
+.navbar-default {
+    border-bottom: 2px solid rgba(55, 185, 209, 0.9);
+}
+
+p{
+	color: #313131;
+	text-align:center;
+}
+
+@media (max-width: 1200px){
+	#fotoerj{
+        height: 55vh;
+		background: transparent no-repeat scroll left bottom / cover;
+	}
+}

@@ -1,0 +1,26 @@
+#rename1{
+	margin-bottom: 0px;
+}
+
+#rename2{
+	padding: 0;
+}
+
+#rename3{
+	background-image:url('../img/carousel/img1.jpg');
+}
+
+#rename4{
+	background-image:url('../img/carousel/img2.jpg');
+}
+
+#rename5{
+	background-image:url('../img/carousel/img3.jpg');
+}
+
+.navbar-wrapper {
+	/* Fallback for web browsers that doesn't support RGBa */
+	background: rgb(255, 255, 255);
+	/* RGBa with 0.6 opacity */
+	background: rgba(255, 255, 255, 0.95);
+}

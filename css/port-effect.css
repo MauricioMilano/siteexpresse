@@ -1,0 +1,38 @@
+body > div
+{transition:all 0.3s ease;}
+.pcr-container{max-width: 90%;margin:0 auto;}
+.pup-img img{max-width: 200px;max-height: 200px}
+.mb-parg p{text-indent: 15px;}
+.lightbox-open{overflow: hidden;}
+.center{text-align: center;}
+#popup{
+    background:#27B4CE;
+    height:100%;
+    width: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    display: none;
+}
+#center{
+    border: 2px solid #f5f5f5;
+    margin: 6% auto;
+    width: 70%;
+    background: #f5f5f5;
+}
+.pup-content{margin:5% 5%;}
+.pup-content p{padding-top: 20px;text-align: justify;text-indent:15px;}
+
+.imgExpande img {
+width: 200px; /* Aqui é o tamanho da imagem */
+margin-left: 10px; /* Espaço entre as imagem */
+}
+.imgExpande img:hover {
+-moz-transform: scale(2);
+-webkit-transform: scale(2);
+-o-transform: scale(2);
+-webkit-transition: 1s all ease; /* É para pega no Chrome e Safira */
+-moz-transition: 1s all ease; /* Firefox */
+-o-transition: 1s all ease; /* Opera */
+
+}
